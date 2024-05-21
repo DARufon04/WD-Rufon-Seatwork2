@@ -6,7 +6,7 @@ html{
 body {
   font-family: Arial, cursive;
   font-size: 13pt;
-  background-color: #ffe0b5;
+  background-color: #ffe0b59c;
   padding: 10px;
   margin: 0;
 }
@@ -64,15 +64,17 @@ table{
   font-size: 11pt;
 }
 table, th, td{
-  border: 2px solid #cecece;
+  border: 2px solid black;
   border-collapse: collapse;
   text-align: center;
   table-layout: fixed;
+  background-color: #FFE4B5;
 }
+
 .selected{
-  background-color: aquamarine;
+  background-color: white;
   font-weight: bold;
-  color: white;
+  color: black;
 }
 
 li{
