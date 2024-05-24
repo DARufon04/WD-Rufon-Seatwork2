@@ -113,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Penguin's Portfolio | Portfolio for my Casting Career | trykolang.com |
+| Penguin's Portfolio | Portfolio for my Casting Career | [link](https://darufon04.github.io/WD-Rufon-Seatwork2/) |
