@@ -11,7 +11,6 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
 </div>
 
 <br />
