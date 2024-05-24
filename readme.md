@@ -58,23 +58,28 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is A website for My Resume/Portfolio
+- To make a portfolio for my Casting Career and I might edit it later for future purposes.
+- The key components are The declaration of doctype, HTML tag, Head section, body section, header section, about me section, schedule section, skills section and contact section
+- HTML5 used by VSCODE
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Doctype Declaration
+- HTML tag
+- Head Section
+- Body Section
+- Header Section
+- About me Section
+- Schedule Section
+- Skills Section
+- Contact Section
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
