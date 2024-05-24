@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/DARufon04/">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">DA Rufon</h3>
@@ -18,7 +18,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Rufon_Seatwork2)
 
 ---
 
